@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[743],{3743:(l,e,o)=>{o.r(e),o.d(e,{default:()=>h});let h={hello:"Hello","hello.world":"Hello world!",welcome:"Hello {name}!"}}}]);
